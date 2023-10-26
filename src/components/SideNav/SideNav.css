@@ -1,0 +1,32 @@
+.navLink{
+   
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    color: #566474;
+    font-size: 16px;
+    
+  }
+  
+  .navMain{
+    width:200px;
+    border:1px solid rgb(226, 215, 215);
+    border-top: none;
+    border-bottom: none;
+    border-left: none; 
+    height:calc(100%-100px);
+  }
+  
+  .active{
+    color: #0b66ef  ;
+  }
+
+  .navLink:hover{
+    font-size: 20px;
+  }
+
+  .navLinkInner{
+    width: 120px;
+  }
+
+  

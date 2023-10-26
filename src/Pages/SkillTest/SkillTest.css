@@ -1,0 +1,132 @@
+.container{
+    min-height: 80vh;
+    min-width: 80vw;
+}
+
+
+.fontStyle{
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.fontStyle2{
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.h50{
+    height: 50px;
+}
+
+.w150{
+    width: 150px;
+}
+
+.bRNone{
+    border-right: none;
+}
+
+.w50{
+    width: 50px;
+}
+
+.bgColorTrophy{
+    background-color:#EBF0F5;
+}
+
+.bgColorLightBlue{
+    background-color: #438AF6;
+}
+
+.blueProgressBar{
+    background-color:#e7f0fe;
+    height:10px;
+    width:200px;
+}
+
+.blueProgressBarFilled{
+    width:80%;
+    background-color:#438AF6;
+    height:10px;
+}
+
+.fontColorBlue{
+    color: #438AF6;
+}
+
+.bgColorLightOrange{
+    background-color: #FF9142;
+}
+
+.orangeProgressBar{
+    background-color:#fff0e6;
+    height:10px;
+    width:200px;
+}
+
+.orangeProgressBarFilled{
+    width:60%;
+    background-color:#FF9142;
+    height:10px;
+}
+
+.fontColorOrange{
+    color:#FF9142;
+}
+
+
+.bgColorLightRed{
+    background-color: #FB5E5E;
+}
+
+.redProgressBar{
+    background-color:#fee6e6;
+    height:10px;
+    width:200px;
+}
+
+.fontColorRed{
+    color:#FB5E5E;
+}
+
+.redProgressBarFilled{
+    width:24%;
+    background-color:#FB5E5E;
+    height:10px;
+}
+
+
+
+.bgColorLightGreen{
+    background-color: #2EC971;
+}
+
+.greenProgressBar{
+    background-color:#eafaf1;
+    height:10px;
+    width:200px;
+}
+
+.fontColorGreen{
+    color:#2EC971;
+}
+
+.greenProgressBarFilled{
+    width:96%;
+    background-color:#2EC971;
+    height:10px;
+}
+
+
+.progress-bar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: 
+      radial-gradient(closest-side, white 79%, transparent 80% 100%),
+      conic-gradient(hotpink 75%, pink 0);    
+  }
+
+  .width500{
+    width: 500px;
+  }

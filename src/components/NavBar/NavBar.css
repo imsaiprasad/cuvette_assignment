@@ -1,0 +1,27 @@
+.navBarMain{
+    border:1px solid rgb(226, 215, 215);
+    display: flex;
+    justify-content: space-between; 
+}
+
+.userNameInMenu{
+    height:30px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+
+.hw30{
+    height: 30px;
+    width: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    .userNameInMenu{
+
+        display: none;
+    }
+  }
+
+
+
